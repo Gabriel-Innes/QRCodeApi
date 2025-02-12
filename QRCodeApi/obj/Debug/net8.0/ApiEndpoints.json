@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "QrCodeAPI.Controllers.EncryptController",
+    "Method": "EncryptJson",
+    "RelativePath": "api/encrypt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jsonData",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
