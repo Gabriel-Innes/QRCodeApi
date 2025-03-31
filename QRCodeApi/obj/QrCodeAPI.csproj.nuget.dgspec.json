@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\AccessControl\\QRAPI\\QRCodeApi\\QrCodeAPI\\QrCodeAPI.csproj": {}
+    "C:\\Work\\AccessControl\\QrCodeAPI\\QrCodeAPI\\QrCodeAPI.csproj": {}
   },
   "projects": {
-    "C:\\Work\\AccessControl\\QRAPI\\QRCodeApi\\QrCodeAPI\\QrCodeAPI.csproj": {
+    "C:\\Work\\AccessControl\\QrCodeAPI\\QrCodeAPI\\QrCodeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\AccessControl\\QRAPI\\QRCodeApi\\QrCodeAPI\\QrCodeAPI.csproj",
+        "projectUniqueName": "C:\\Work\\AccessControl\\QrCodeAPI\\QrCodeAPI\\QrCodeAPI.csproj",
         "projectName": "QrCodeAPI",
-        "projectPath": "C:\\Work\\AccessControl\\QRAPI\\QRCodeApi\\QrCodeAPI\\QrCodeAPI.csproj",
+        "projectPath": "C:\\Work\\AccessControl\\QrCodeAPI\\QrCodeAPI\\QrCodeAPI.csproj",
         "packagesPath": "C:\\Users\\Gabriel Innes\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\AccessControl\\QRAPI\\QRCodeApi\\QrCodeAPI\\obj\\",
+        "outputPath": "C:\\Work\\AccessControl\\QrCodeAPI\\QrCodeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
