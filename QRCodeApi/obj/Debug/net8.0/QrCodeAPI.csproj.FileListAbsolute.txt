@@ -72,3 +72,4 @@ C:\Work\AccessControl\QRAPI\QRCodeApi\QrCodeAPI\obj\Debug\net8.0\refint\QrCodeAP
 C:\Work\AccessControl\QRAPI\QRCodeApi\QrCodeAPI\obj\Debug\net8.0\QrCodeAPI.pdb
 C:\Work\AccessControl\QRAPI\QRCodeApi\QrCodeAPI\obj\Debug\net8.0\QrCodeAPI.genruntimeconfig.cache
 C:\Work\AccessControl\QRAPI\QRCodeApi\QrCodeAPI\obj\Debug\net8.0\ref\QrCodeAPI.dll
+C:\Work\AccessControl\QrCodeAPI\QrCodeAPI\obj\Debug\net8.0\QrCodeAPI.sourcelink.json
